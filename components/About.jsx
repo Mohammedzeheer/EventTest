@@ -32,7 +32,7 @@ const About = () => {
               </p>
               
               <p className="text-lg md:text-xl leading-relaxed text-gray-700 mb-6">
-                The festival serves as a beautiful opportunity for Muslims and people of all backgrounds to reflect upon the Prophet's message of peace, compassion, justice, and unity. Through various cultural programs, recitations, lectures, and community gatherings, Milad Fest promotes understanding and celebrates the universal values of love and brotherhood.
+                The festival serves as a beautiful opportunity for Muslims and people of all backgrounds to reflect upon the Prophet&apos;s message of peace, compassion, justice, and unity. Through various cultural programs, recitations, lectures, and community gatherings, Milad Fest promotes understanding and celebrates the universal values of love and brotherhood.
               </p>
               
               <p className="text-lg md:text-xl leading-relaxed text-gray-700 mb-6">
