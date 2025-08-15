@@ -6,8 +6,8 @@ import AppShell from "../components/Appshell";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Division Sahithyotsav",
-  description: "Division Level Literary Festival",
+  title: "Event",
+  description: "Literary Festival",
 };
 
 export default function RootLayout({ children }) {

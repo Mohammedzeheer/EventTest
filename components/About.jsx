@@ -36,11 +36,11 @@ const About = () => {
               </p>
               
               <p className="text-lg md:text-xl leading-relaxed text-gray-700 mb-6">
-                During Milad Fest, communities organize processions, decorative illuminations, charitable activities, and educational programs. The celebration includes beautiful Naat recitations (poetry in praise of the Prophet), Qirat (Quranic recitations), and discussions about the Prophet's life and teachings.
+                During Milad Fest, communities organize processions, decorative illuminations, charitable activities, and educational programs. The celebration includes beautiful Naat recitations (poetry in praise of the Prophet), Qirat (Quranic recitations), and discussions about the Prophet&apos;s life and teachings.
               </p>
               
               <p className="text-lg md:text-xl leading-relaxed text-gray-700">
-                This festival strengthens the bonds of faith and community while spreading the Prophet's message of mercy, tolerance, and service to humanity. It's a time for spiritual reflection, community service, and celebrating the divine guidance that continues to inspire millions around the world.
+                This festival strengthens the bonds of faith and community while spreading the Prophet&apos;s message of mercy, tolerance, and service to humanity. It&apos;s a time for spiritual reflection, community service, and celebrating the divine guidance that continues to inspire millions around the world.
               </p>
             </div>
           </div>

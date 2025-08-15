@@ -395,7 +395,7 @@ function ResultHome() {
               </div>
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Great Choice!</h3>
               <p className="text-gray-600 text-lg mb-6">
-                You've selected a category. Now choose a specific event to view the results.
+                You&apos;ve selected a category. Now choose a specific event to view the results.
               </p>
               <div className="inline-flex items-center px-6 py-3 bg-blue-100 rounded-full text-blue-800 font-semibold">
                 <Award className="h-5 w-5 mr-2" />
