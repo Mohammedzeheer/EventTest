@@ -517,7 +517,7 @@ function ResultHome() {
               </div>
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Results Not Available</h3>
               <p className="text-gray-700 mb-6 text-lg">
-                We're still processing the results for <strong>{toastData.category} {toastData.item}</strong>.
+                We&apos;re still processing the results for <strong>{toastData.category} {toastData.item}</strong>.
               </p>
               <div className="inline-flex items-center px-6 py-3 bg-orange-100 rounded-full text-orange-800 font-semibold">
                 <Clock className="h-5 w-5 mr-2" />
